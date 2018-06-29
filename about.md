@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-This is an edit that I have made to test editing from my iPad. 
+This is an edit that I have made to test editing from my iPad. That worked **perfectly!**
