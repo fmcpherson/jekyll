@@ -16,7 +16,7 @@
 title: Writing By Frank McPherson
 email: frank.mcpherson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  One this site you will find essays and other long form articles
+  On this site you will find essays and other long form articles
   written by Frank McPherson. Send feedback via Twitter or micro.blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
