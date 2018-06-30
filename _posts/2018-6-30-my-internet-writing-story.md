@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Personal History About Writing On The Internet"
-date:   2018-06-30 17:37:03 -0500
+title:  A Personal History About Writing On The Internet
+date:   2018-06-30 17:37:03
 categories: stories
 ---
 # A Personal History About Writing On The Internet
