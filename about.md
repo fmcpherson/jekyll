@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello, I am Frank McPherson, and I welcome you to this web site where I host essays and other long form articles that I write.
-This is the third location for host this format of my writing, for by past writing, in reverse chronological order please go to:
+This is the third location to host this format of my writing, for my past writing, in reverse chronological order please go to:
 
 * [Let's Be Frank](http://writing.frankmcpherson.org)
 * [Webnotes](http://webnotes.frankmcpherson.net) and [Stories](http://stories.frankmcpherson.net)
