@@ -4,8 +4,6 @@ title:  A Personal History About Writing On The Internet
 date:   2018-06-30 17:37:03
 categories: stories
 ---
-# A Personal History About Writing On The Internet
-
 >I [published the following](http://stories.frankmcpherson.net/2014/07/21/aPersonalHistoryAboutWritingOnTheInternet.html) on July 21, 2014, and at that time I started using an app called Fargo for writing. I have not updated this article since then, even though I switched to 1999.io and now micro.blog. I hope to edit this article to bring it up to date.
 
 It has been a while in coming, but I have recently consolidated my writing on the Internet to a domain that I own and hosting services under my control. I've been publishing my writing on the Internet since the fall of 1999 when I started blogging using a service called EditThisPage.com.
