@@ -4,17 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I am Frank McPherson, and I welcome you to this web site where I host essays and other long form articles that I write.
+This is the third location for host this format of my writing, for by past writing, in reverse chronological order please go to:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* [Let's Be Frank](http://writing.frankmcpherson.org)
+* [Webnotes](http://webnotes.frankmcpherson.net) and [Stories](http://stories.frankmcpherson.net)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently I blog at [frankmcpherson.blog](https://frankmcpherson.blog) and [the-narthex.org](https://the-narthex.org) and I also have a site dedicated to [Real Personal Computing](https://realpersonalcomputing.com). 
+You can find me on Twitter, Facebook, and Google+ but rather than seek me out in all those locations you can find my
+social network posts at [fjmnotes.com](https://fjmnotes.com).
 
-
-[jekyll-organization]: https://github.com/jekyll
-
-This is an edit that I have made to test editing from my iPad. That worked **perfectly!**
+Finally, to see my personal profile, please go to [frankm.org](http://frankm.org).
