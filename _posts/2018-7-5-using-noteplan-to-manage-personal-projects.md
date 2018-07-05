@@ -16,7 +16,7 @@ To set up linking, I went into Preferences and enabled Append Links When Schedul
 
 The key to this process is to only schedule project tasks from the project Notes sheet. If I complete a task on a certain date, you follow the link to that date and see that it is completed. 
 
-![A Project Note In Noteplan](http://frankm.org/images/notePlanProjectNote.JPG){:center-image height="400px" width="500px"}
+![A Project Note In Noteplan](http://frankm.org/images/notePlanProjectNote.JPG){:.center-image}
 
 I have not decided on how I want to handle project tasks that are not completed on a single day. When I determine that I need to continue work on a task on another day I can go to the project note and schedule the task again for the second date.  The task will be added to that day's Calendar sheet and the link to it upgraded on the Notes pages, but the link to the first date is replaced. Consequently, I cannot navigate from the project note to each date on which I worked on a task. Another approach is to create a new task item on the project note sheet for each day on which I work on that task, which means I may have multiple entries for the same task. 
 
