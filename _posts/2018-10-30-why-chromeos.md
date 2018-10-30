@@ -6,7 +6,7 @@ comments: false
 category:
 - Computers
 tags:
-- Chrome,
+- ChromeOS,
 - Android,
 - Linux
 ---
