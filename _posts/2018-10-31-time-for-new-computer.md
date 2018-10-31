@@ -79,4 +79,4 @@ Before I bought my iPad Pro 10.5 I seriously considered the Samsung Chromebook P
 
 ## What about a MacBook? 
 
-Short answer, the MacBooks cost too much for what I want to spend. The new MacBook Air starts at $1199 (a $200 increase from the prior model), the MacBook starts at $1299. I didn't expect to see them matching Lenovo’s I5, 8 GB RAM, 128 GB storage spec for $700 price and I wasn't surprised. I could buy the new iPad Pro for $700, but I just bought my Pro and so I don't need a new tablet at this time.
+Short answer, the MacBooks cost too much for what I want to spend. The [new MacBook Air](https://www.apple.com/macbook-air/) starts at $1199 (a $200 increase from the prior model), [the MacBook](https://www.apple.com/macbook/) starts at $1299. I didn't expect to see them matching Lenovo’s I5, 8 GB RAM, 128 GB storage spec for $700 price and I wasn't surprised. I could buy the new iPad Pro for $700, but I just bought my Pro and so I don't need a new tablet at this time.
