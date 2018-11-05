@@ -18,7 +18,7 @@ I am not seriously thinking of a Windows notebook, mostly because I use Windows 
 
 I want my next computer to run an Intel Core M or I processor, with 8 GB of RAM, at least 64 GB of internal storage, and the ability to expand storage. My next computer should have a 12-inch to 14-inch screen and a backlit keyboard. So, what’s am I considering?
 
-## HP Chromebook X360 X14
+## HP Chromebook X360 14
 
 Right now, [this is the front runner](https://chromeunboxed.com/news/hp-chromebook-x360-14-available). It ticks all the checkboxes:
 
@@ -29,6 +29,8 @@ Right now, [this is the front runner](https://chromeunboxed.com/news/hp-chromebo
 - backlit keyboard
 
 This Chromebook also has two USB Type-C ports and 2 USB 3.1 type A ports, along with a standard headphone jack. Overall dimensions are 13 inches by 9 inches, just over a half-inch thick and weighs 3.7 pounds. Most important, I can buy this for $599. 
+
+*Update: I got to see the HP Chromebook X360 14 at Best Buy and really like how it looks, but wish that it had an I5 processor rather than the I3. Having seen both this and the Lenovo C630 side by side, I am a bit more on the fence about which to buy. The Lenovo clearly has the better specs, but I think its size firmly keeps it on the desktop where as the X360 14 is more mobile. On the griping hand, I have the iPad for mobile computing so whichever Chromebook I buy is going to be mostly used at home.*
 
 ## Lenovo Yoga 15.6-inch, Model X1JXOOO
 
@@ -41,6 +43,8 @@ The 15.6-inch screen of [this Lenovo Chromebook](https://chromeunboxed.com/news/
 - backlit keyboard
 
 The larger screen makes this device a bit larger and heavier than the other computers I am considering, but pictures of the display show pretty small bezels. As much as I like the price of the HP Chromebook X360, the specs of this Lenovo may sway me in the end. An 8th generation I5 processor with 8 GB of RAM and 128 GB of storage should last a long time, so I think his may be $700 well spent. 
+
+*Update: I got to see the Yoga C630 at Best Buy and I am a bit put off by the size of the device. Obviously, it has a larger screen than the HP but I guess I wasn't prepared for it to actually be so large. Lenovo has different SKUs being sold at Best Buy than what they sell direct, most noticeable of which is that the Best Buy model does not have a backlit keyboard. The Best Buy version costs $649 while the Lenovo version costs $719. If I am going to spend more than $600 on a Chromebook it must have a backlit keyboard. I can't believe any notebook computer company would sell one without a backlit keyboard today. Lenovo is selling a I3, 64 GB storage with a backlit keyboard SKU of the C630 for $600.* 
 
 ## HP Chromebook X2
 
