@@ -63,7 +63,7 @@ The larger screen makes this device a bit larger and heavier than the other comp
 
 *Update: I got to see the Yoga C630 at Best Buy and I am a bit put off by the size of the device. Obviously, it has a larger screen than the HP but I guess I wasn't prepared for it to actually be so large. Lenovo has different SKUs being sold at Best Buy than what they sell direct, most noticeable of which is that the Best Buy model does not have a backlit keyboard. The Best Buy version costs $649 while the Lenovo version costs $719. If I am going to spend more than $600 on a Chromebook it must have a backlit keyboard. I can't believe any notebook computer company would sell one without a backlit keyboard today. Lenovo is selling a I3, 64 GB storage with a backlit keyboard SKU of the C630 for $600.* 
 
-*Update 2: I am souring on the C630 the more I think about it. First off, I can't get passed its size, it looks and feels huge next the HP Chromebook X360 14. Second, Lenovo pulled the listing of the model I was considering from their web site, which I don't know how to interpret. I am not leaning toward the Google Pixelbook or the HP.*
+*Update 2: I am souring on the C630 the more I think about it. First off, I can't get passed its size, it looks and feels huge next the HP Chromebook X360 14. Second, Lenovo pulled the listing of the model I was considering from their web site, which I don't know how to interpret. I am now leaning toward the Google Pixelbook or the HP.*
 
 ## HP Chromebook X2
 
@@ -103,3 +103,5 @@ Before I bought my iPad Pro 10.5 I seriously considered the Samsung Chromebook P
 ## What about a MacBook? 
 
 Short answer, the MacBooks cost too much for what I want to spend. The [new MacBook Air](https://www.apple.com/macbook-air/) starts at $1199 (a $200 increase from the prior model), [the MacBook](https://www.apple.com/macbook/) starts at $1299. I didn't expect to see them matching Lenovo’s I5, 8 GB RAM, 128 GB storage spec for $700 price and I wasn't surprised. I could buy the new iPad Pro for $700, but I just bought my Pro and so I don't need a new tablet at this time.
+
+*Update: I have learned that [some stores](https://www.macrumors.com/roundup/black-friday/) will be selling the 2017 MacBook Air for $799 on Black Friday, which puts it at the very high end of my budget. Problem is, the 2017 MacBook Air has a 5th generation Intel Core processor, which is pretty old in comparison to the other devices I am considering. The 1440 x 900 display is also worse, so I am not considering this despite it being within my budget.*
