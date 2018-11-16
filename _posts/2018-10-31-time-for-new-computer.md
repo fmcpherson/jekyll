@@ -32,6 +32,23 @@ This Chromebook also has two USB Type-C ports and 2 USB 3.1 type A ports, along 
 
 *Update: I got to see the HP Chromebook X360 14 at Best Buy and really like how it looks, but wish that it had an I5 processor rather than the I3. Having seen both this and the Lenovo C630 side by side, I am a bit more on the fence about which to buy. The Lenovo clearly has the better specs, but I think its size firmly keeps it on the desktop where as the X360 14 is more mobile. On the griping hand, I have the iPad for mobile computing so whichever Chromebook I buy is going to be mostly used at home.*
 
+*Update 2: In comparison to the Lenovo Yogo C630, the X360 here is falling back in to favor. The more I think about it, the more I just prefer the smaller size and overall design of the X360. If I took emotion out of the decision process, I will buy this model because it meets my requirements at a lower price. Still, right now, I am leaning toward the Google Pixelbook.*
+
+## Google Pixelbook
+
+In the first iteration of this article I did not include the Pixelbook because its standard retail $999 price is more than I want to spend. However, I failed to consider the Black Friday and Cyber Monday sales. Chrome Unboxed reports that [Best Buy](https://chromeunboxed.com/grab-a-pixelbook-for-699-on-black-friday-and-score-3-months-of-youtube-tv/) and the [Google Store](https://chromeunboxed.com/news/google-store-black-friday-cyber-monday-deals) will both be selling the Pixelbook for $699, which puts it into strong contention. 
+
+The Pixelbook is the model by which all new high-end Chromebooks are measured. It has the following:
+
+- Intel Core I5 (7th generation, one version behind others I am considering)
+- 8 GB of RAM; 128 GB of storage
+- 12.3-inch, 2400x1600 235 ppi screen
+- Backlit keyboard
+
+The Pixel book is only 0.4 inch thick, which I think may make it the thinnest of the Chromebooks I am considering. I've seen them in person, and think it has a beautiful design. The one draw back is the 7th generation processor, which is not as fast as the 8th generation version in the Lenovo Yoga C630. I am told the 7th gen I5 is comparable to the 8th gen I3 that is in the HP X360 that I am also considering. 
+
+Right now I am strongly considering buying the Pixelbook, assuming I can get one at the $699 price.
+
 ## Lenovo Yoga 15.6-inch, Model X1JXOOO
 
 The 15.6-inch screen of [this Lenovo Chromebook](https://chromeunboxed.com/news/lenovo-releases-three-new-chromebooks-premium-kaby-lake-ifa) is a little larger than I want, and the $699 price is a bit more than I would prefer to spend, but the specs of this computer justify the higher price:
@@ -45,6 +62,8 @@ The 15.6-inch screen of [this Lenovo Chromebook](https://chromeunboxed.com/news/
 The larger screen makes this device a bit larger and heavier than the other computers I am considering, but pictures of the display show pretty small bezels. As much as I like the price of the HP Chromebook X360, the specs of this Lenovo may sway me in the end. An 8th generation I5 processor with 8 GB of RAM and 128 GB of storage should last a long time, so I think his may be $700 well spent. 
 
 *Update: I got to see the Yoga C630 at Best Buy and I am a bit put off by the size of the device. Obviously, it has a larger screen than the HP but I guess I wasn't prepared for it to actually be so large. Lenovo has different SKUs being sold at Best Buy than what they sell direct, most noticeable of which is that the Best Buy model does not have a backlit keyboard. The Best Buy version costs $649 while the Lenovo version costs $719. If I am going to spend more than $600 on a Chromebook it must have a backlit keyboard. I can't believe any notebook computer company would sell one without a backlit keyboard today. Lenovo is selling a I3, 64 GB storage with a backlit keyboard SKU of the C630 for $600.* 
+
+*Update 2: I am souring on the C630 the more I think about it. First off, I can't get passed its size, it looks and feels huge next the HP Chromebook X360 14. Second, Lenovo pulled the listing of the model I was considering from their web site, which I don't know how to interpret. I am not leaning toward the Google Pixelbook or the HP.*
 
 ## HP Chromebook X2
 
