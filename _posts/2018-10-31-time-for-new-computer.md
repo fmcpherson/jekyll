@@ -16,7 +16,21 @@ Consequently, I am pretty sure my next technology purchase is going to be a note
 
 I am not seriously thinking of a Windows notebook, mostly because I use Windows all day on my work computer and therefore prefer something different. I am mostly [drawn to the latest Chromebooks](https://writing.frankmcpherson.net/computers/2018/10/30/why-chromeos.html) because that is where all of the new desktop software development is taking place. Mac OS and Windows are mature and stable, but I think Google is doing interesting things with Chrome OS and I find myself drawn to the idea of running applications for three different platforms on one device. I am drawn to the idea of [the use of containers](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md) for desktop applications and an operating system with built-in functionality to support such a thing.
 
-I want my next computer to run an Intel Core M or I processor, with 8 GB of RAM, at least 64 GB of internal storage, and the ability to expand storage. My next computer should have a 12-inch to 14-inch screen and a backlit keyboard. So, what’s am I considering?
+I want my next computer to run an Intel Core M or I processor, with 8 GB of RAM, at least 64 GB of internal storage, and the ability to expand storage. My next computer should have a 12-inch to 14-inch screen and a backlit keyboard. 
+
+## Decision Made
+
+When I first wrote this I was considering buying either the Lenovo Yoga C630 or the HP Chromebook X360 14, however at that time I did not factor in the possibility that the Google Pixelbook would fall in my price range. I have decided to buy the Pixelbook for the reasons below.
+
+As I wrote in prior updates, I was really surprised by the large size of the Lenovo when I saw it in person and  in the end I decided I didn't want a notebook that large and heavy. I am glad I got to see the Lenovo in person before I decided whether or not to buy it. The fact that the version of the Yoga that I wanted to buy was not sold by Best Buy and not available from Lenovo was the final nail in the coffin. 
+
+I am sure that I would be happy with the HP, and as I write this HP has it discounted to $549 likely making it the best Chromebook that you can buy at that price. So, why did I decide on the Pixelbook over the X360 14? 
+
+First off, I believe the performance of the 7th generation Core I5 processor in the Pixelbook is nearly equivalent to the 8th generation Core I3 processor in the X360 14, so both perform at about the same level. For the additional money I am spending on the Pixelbook I get 64 GB (for a total of 128 GB) more storage, a higher resolution (2400x1600 versus 1920x1080) display, a smaller overall size, and the intangible benefit of being a Made By Google product.
+
+The Pixelbook's large bezels shows its age when compared to the "bezel-less" displays of current notebooks, but I'll trade that for the higher resolution and 3:2 aspect ratio of its screen. A couple of definite things I am giving up are the two USB-A ports and MicroSD card slot included with the HP, but I am getting a thinner and lighter notebook in the Pixelbook.
+
+Read on for further that I captured as I was making my purchase decision. 
 
 ## HP Chromebook X360 14
 
