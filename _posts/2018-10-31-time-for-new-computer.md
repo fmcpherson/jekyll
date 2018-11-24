@@ -30,7 +30,7 @@ First off, I believe the performance of the 7th generation Core I5 processor in 
 
 The Pixelbook's large bezels shows its age when compared to the "bezel-less" displays of current notebooks, but I'll trade that for the higher resolution and 3:2 aspect ratio of its screen. A couple of definite things I am giving up are the two USB-A ports and MicroSD card slot included with the HP, but I am getting a thinner and lighter notebook in the Pixelbook.
 
-Read on for further that I captured as I was making my purchase decision. 
+Read on further for what I wrote as I was making my purchase decision. 
 
 ## HP Chromebook X360 14
 
