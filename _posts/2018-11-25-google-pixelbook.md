@@ -9,7 +9,7 @@ category:
 tags:
 - 
 ---
-Last update: 2018-11-16
+Last update: 2018-11-26
 
 [As I wrote previously](https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html), over the course of six weeks I considered several different Chromebooks before deciding to buy the Google Pixelbook. On this page I am going to document my experience with setting up and using the Pixelbook, you can see my raw notes in [my Work Notes outline](http://instantoutliner.com/41).
 
