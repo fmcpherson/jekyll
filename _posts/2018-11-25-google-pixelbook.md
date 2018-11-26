@@ -9,6 +9,8 @@ category:
 tags:
 - 
 ---
+Last update: 2018-11-16
+
 [As I wrote previously](https://writing.frankmcpherson.net/computers/2018/10/31/time-for-new-computer.html), over the course of six weeks I considered several different Chromebooks before deciding to buy the Google Pixelbook. On this page I am going to document my experience with setting up and using the Pixelbook, you can see my raw notes in [my Work Notes outline](http://instantoutliner.com/41).
 
 ## Out Of Box Experience
@@ -30,3 +32,9 @@ There is not a quick way to expand the Launcher. The natural approach to me woul
 A faster way to remove a bunch of apps is to go into the Chrome browser settings, More tools, Extensions to list all of the Chrome extensions and apps which you can then click to Remove.
 
 Android and Chrome OS apps have the same type of icon in the Launcher, so there is no way to distinguish between the two, if that matters. All Linux apps, on the other hand, appear in a separate group, and I wonder if this separation will remain when Linux apps come out of beta.
+
+## USB-C Dock
+
+I am going to get a USB-C dock to make it easier to connect the Pixelbook to peripherals like my monitor when I am in the home office. It looks like there are two types of docks, those that have their own power supply that then supplies power to the Pixelbook and those that requires the Pixelbook's power supply. Because I plan to leave this dock on my desk, I want one that has its own power supply. 
+
+So far in my research I have identified two candidates: [the OWC USB-C dock](https://www.amazon.com/dp/B073BDY5J5/?coliid=IRVHAT0RZVFYT&colid=2OSYVCFR78X3K&psc=0&ref_=lv_ov_lig_dp_it) and [the Pluggable USB-C dock](https://www.amazon.com/dp/B076HXWR9M/?coliid=I3S8Q3HU54TEG5&colid=2OSYVCFR78X3K&psc=0&ref_=lv_ov_lig_dp_it); both brands are recommended by Chrome Unboxed. The Pluggable dock has more ports but the OWC dock has a SD card slot that I favor. 
