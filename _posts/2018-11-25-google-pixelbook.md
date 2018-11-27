@@ -38,3 +38,11 @@ Android and Chrome OS apps have the same type of icon in the Launcher, so there 
 I am going to get a USB-C dock to make it easier to connect the Pixelbook to peripherals like my monitor when I am in the home office. It looks like there are two types of docks, those that have their own power supply that then supplies power to the Pixelbook and those that requires the Pixelbook's power supply. Because I plan to leave this dock on my desk, I want one that has its own power supply. 
 
 So far in my research I have identified two candidates: [the OWC USB-C dock](https://www.amazon.com/dp/B073BDY5J5/?coliid=IRVHAT0RZVFYT&colid=2OSYVCFR78X3K&psc=0&ref_=lv_ov_lig_dp_it) and [the Pluggable USB-C dock](https://www.amazon.com/dp/B076HXWR9M/?coliid=I3S8Q3HU54TEG5&colid=2OSYVCFR78X3K&psc=0&ref_=lv_ov_lig_dp_it); both brands are recommended by Chrome Unboxed. The Pluggable dock has more ports but the OWC dock has a SD card slot that I favor. 
+
+## SmartLock
+
+SmartLock is a feature that uses an Android phone for authentication to log in to Chrome OS, and it is one of the first Chrome OS features that I tried to enable on the Pixelbook. For some reason, I would go through the setup process, receive confirmation emails that the feature is enabled, but not see anything on the Chromebook. 
+
+Last night I shutdown the Pixelbook rather than simply put it to sleep by closing the lid, and when I started it up today, SmartLock was enabled. Apparently one needed to reboot and login to the Pixelbook with your password to get it to work despite there being no direction to do so. 
+
+With SmartLock enabled, to log in to the Pixelbook I can unlock my phone, a Pixel 2, and then click my photo on the Chromebook lock screen. The process saves me a few keystrokes, other login methods of using PIN or password are also available. 
