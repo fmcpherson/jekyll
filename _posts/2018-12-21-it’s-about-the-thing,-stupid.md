@@ -13,7 +13,7 @@ The 'Future Book' Is Here, but It's Not What We Expected - WIRED:
 > Instead, technology changed everything that enables a book, fomenting a quiet revolution.
 
 
-Source: [The 'Future Book' Is Here, but It's Not What We Expected | WIRED](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/)
+Source: [The 'Future Book' Is Here, but It's Not What We Expected - WIRED](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/)
 
 The author starts by lamenting that books, albeit now increasingly digital, have not changed and then tries to claim, really they have changed. Actually, no, what has changed is how one makes money by writing and creating books. You bemoan the fact that books, like journalism, has not changed as we expected and not recognized the reason why is right in your face. As long as the focus is on making money by publishing (books, journalism, etc..) the focus is always going to be on making the money and not on changing the mechanisms of writing and publishing itself. 
 
